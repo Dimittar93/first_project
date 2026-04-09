@@ -1,1 +1,1 @@
-print('Hello from main!')
+print(\'hello from repository\')
